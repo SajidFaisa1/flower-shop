@@ -76,17 +76,21 @@ text-align: center;
     margin-top: auto;
     margin-bottom: auto;
 }
-.header{
-color: #272727;
-font-size: 80px;
-font-weight: 800;
-}
 .padding{
     padding:4rem 0rem ;
 }
 .radius-xl{
     border-radius: 8px;
 }
+.padding-xl{
+    padding:4rem 8rem;
+}
+.header{
+color: #272727;
+font-size: 80px;
+font-weight: 800;
+}
+
 .description{
 color: rgba(39, 39, 39, 0.60);
 font-size: 18px;
