@@ -1,4 +1,44 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 *{
     font-family: 'Lato', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+.font-xxl{
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+}
+.banner{
+    display: flex;
+    
+    background-color: rgba(229, 84, 115, 0.10);
+    justify-content: space-around;
+  
+}
+.banner-details{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.header{
+color: #272727;
+font-size: 80px;
+font-weight: 800;
+}
+.description{
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+margin-top: 32px;
+margin-bottom: 32px;
+}
+.btn-primary-1{
+color: #FFF;
+font-size: 20px;
+padding: 20px 43px;
+background-color: #E55473;
+border-radius: 8px;
+
 }
