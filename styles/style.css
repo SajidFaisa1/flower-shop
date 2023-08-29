@@ -19,6 +19,9 @@ margin-left:auto ;
 margin-right: auto;
 font-size: 24px;
 }
+.weight-700{
+    font-weight: 700;
+}
 .mt-medium{
     margin-top: 128px;
 }
@@ -27,6 +30,9 @@ font-size: 24px;
 }
 .mt-medium-xl{
     margin-top: 48px;
+}
+.bg-primary{
+    background-color: rgba(229, 84, 115, 0.05)
 }
 .mt-x{
     margin-top: 32px;
@@ -51,6 +57,13 @@ text-align: center;
 .mt-top{
    margin-top:100px;
 }
+.border{
+    border: 1px solid black;
+}
+.mx-auto{
+    display: flex;
+    justify-content: center;
+}
 .w-80{
  width: 80%;
  margin-left: auto;
@@ -67,6 +80,12 @@ text-align: center;
 color: #272727;
 font-size: 80px;
 font-weight: 800;
+}
+.padding{
+    padding:4rem 0rem ;
+}
+.radius-xl{
+    border-radius: 8px;
 }
 .description{
 color: rgba(39, 39, 39, 0.60);
