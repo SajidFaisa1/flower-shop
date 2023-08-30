@@ -136,7 +136,7 @@ padding-bottom: 0px;
 .bg-img{
     background-image: url("../images/bg.png");
     background-repeat: no-repeat;
-    background: ;
+    
     background-size: cover;
 }
 .input-field{
