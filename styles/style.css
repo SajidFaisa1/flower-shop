@@ -85,6 +85,9 @@ text-align: center;
 .padding-xl{
     padding:4rem 8rem;
 }
+.padding-xxl{
+    padding:10rem 0rem;
+}
 .header{
 color: #272727;
 font-size: 80px;
@@ -129,4 +132,15 @@ background: rgba(5, 151, 160, 0.15);
 padding: 7rem 7rem;
 padding-bottom: 0px;
 
+}
+.bg-img{
+    background-image: url("/images/Rectangle 9.png ");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.input-field{
+    width: 50%;
+    padding: 20px;
+    margin-right: 5px;
+    border-radius: 5px;
 }
